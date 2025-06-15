@@ -15,11 +15,6 @@
 
 ---
 
-## 🖼️ Demo Preview
-
-> Coming soon — or deploy your own in 60 seconds ⏬
-
----
 
 ## 📦 Setup & Run Locally
 
